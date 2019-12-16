@@ -1,0 +1,16 @@
+PODS:
+  - ColorMatchTabs (3.3)
+
+DEPENDENCIES:
+  - ColorMatchTabs
+
+SPEC REPOS:
+  trunk:
+    - ColorMatchTabs
+
+SPEC CHECKSUMS:
+  ColorMatchTabs: 8d63cd25099bdb8929438f468bb52aafd288d7a0
+
+PODFILE CHECKSUM: 9b0360dee360583faf961c7f5efdd4e954f43585
+
+COCOAPODS: 1.8.4
